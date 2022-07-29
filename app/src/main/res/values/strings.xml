@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="title_home">Questions</string>
+    <string name="title_dashboard">Deck Selection</string>
+    <string name="title_notifications">Favorites List</string>
+    <color name="card_color">#2b4399</color>
+</resources>
